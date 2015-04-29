@@ -1,0 +1,105 @@
+﻿<Page
+    x:Class="Room_Mate_Prototype.Calendar_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Room_Mate_Prototype"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='1' Label="Settings"                       />
+                <AppBarButton x:ConnectionId='2' Label="About"                    />
+            </CommandBar.SecondaryCommands>
+            <AppBarButton Icon="Add" Label="Add"/>
+            <AppBarButton Icon="Refresh" Label="Refresh"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="0,10,0,513">
+            <Rectangle Margin="0,0,303,0" Stroke="White" />
+            <Rectangle Margin="97,0,206,0" Stroke="White" />
+            <Rectangle Margin="194,0,103,0" Stroke="White" Fill="#FF565656" />
+            <Rectangle Margin="297,0,0,0" Stroke="White" />
+            <Button x:ConnectionId='4'                    HorizontalAlignment="Left" Content="Feed" VerticalAlignment="Stretch" FontSize="16" RenderTransformOrigin="0.484,0.455" Margin="0,-10" Width="97" MinWidth="0"/>
+            <Button x:ConnectionId='5'                         HorizontalAlignment="Left" Margin="97,-10,0,-10" Content="Groceries" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="0.484,0.455" MinWidth="0" Height="77" Width="98"/>
+            <Button HorizontalAlignment="Left" Margin="194,-10,0,-10" Content="Calendar" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="0.484,0.455" Height="77" Width="103" MinWidth="0"/>
+            <Button x:ConnectionId='6'                      HorizontalAlignment="Left" Margin="297,-10,0,-10" Content="Chores" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="0.484,0.455" Width="103" MinWidth="0" Height="77"/>
+        </Grid>
+
+        <Rectangle Height="12" Stroke="#FF4D4D4D" Fill="#FF4B4B4B" Margin="0,60.333,0,496" Grid.Row="1"/>
+
+        <Button Content="Week" Margin="0,66,0,447" Grid.Row="1" Height="67" Width="196" BorderThickness="1" Background="#FF5A5A5A"></Button>
+        <Button x:ConnectionId='3'                     Content="Month" Margin="196,66,0,447" Grid.Row="1" Height="67" Width="204" BorderThickness="1"></Button>
+
+        <Grid Margin="0,123,0,0" Grid.RowSpan="2">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="140"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <Border Grid.Row="0" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="0" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="1" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="1" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="2" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="2" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="3" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="3" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="4" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="4" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="5" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="5" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="6" Grid.Column="0" BorderBrush="White" BorderThickness="2"/>
+            <Border Grid.Row="6" Grid.Column="1" BorderBrush="White" BorderThickness="2"/>
+
+            <TextBlock Text="Monday 7th" Grid.Row="0" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Tuesday 8th" Grid.Row="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Wednesday 9th" Grid.Row="2" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Thursday 10th" Grid.Row="3" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Friday 11th" Grid.Row="4" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Saturday 12th" Grid.Row="5" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Sunday 13th" Grid.Row="6" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+
+
+            <TextBlock Text="Vaccuum Apartment" Grid.Row="2" Grid.Column="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Dave is studying" Grid.Row="3" Grid.Column="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Garbage Night" Grid.Row="5" Grid.Column="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+            <TextBlock Text="Party Tonight" Grid.Row="7" Grid.Column="1" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+
+        </Grid>
+    </Grid>
+</Page>
+

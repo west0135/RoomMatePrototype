@@ -1,0 +1,51 @@
+﻿<Page
+    x:Class="Room_Mate_Prototype.About_Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Room_Mate_Prototype"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="About" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <TextBlock
+                Text="This app is a demonstration version. It currently does not sync up with any online database, and therefore does not currently support multiple users. These features are planned for the full release."
+                TextWrapping="Wrap" FontSize="18">
+            </TextBlock>
+
+            <TextBlock
+                Text="Developed by Dan Westenberger for Tony Davidson of Algonquin College"
+                TextWrapping="Wrap" FontSize="18" Margin="0,157,0,-160"></TextBlock>
+            <Button x:ConnectionId='1' Content="E-Mail Developer"                    ></Button>
+            <!--<TextBlock
+                Text="      Bacon ipsum dolor amet sirloin laboris kevin tenderloin tri-tip shankle. Voluptate consequat quis, spare ribs pork labore lorem jerky duis officia nulla esse pork belly pork chop. Est dolor beef ribs, ball tip pork belly tri-tip minim do bresaola aute meatball ex. Rump frankfurter et, drumstick in leberkas biltong non esse sirloin capicola pork loin enim.
+
+Frankfurter anim eu veniam proident, corned beef jerky incididunt ut cupim ball tip aliqua pork belly qui. Pork loin pig corned beef incididunt id. Consequat andouille occaecat cupidatat pancetta. Eiusmod ham hock ad, strip steak sirloin voluptate dolor brisket lorem dolore cupidatat pork loin pig kevin esse. Proident culpa sirloin shoulder officia enim cupim ut. Proident frankfurter chuck aliqua."
+                TextWrapping="Wrap" FontSize="18">
+                
+            </TextBlock>-->
+            
+        </Grid>
+    </Grid>
+</Page>
+

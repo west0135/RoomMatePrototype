@@ -1,0 +1,114 @@
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\App.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\About_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Calendar_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Chores_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Feed_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Grocery_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Settings_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Room Mate Prototype.xr.xml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Room Mate Prototype.exe
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Room Mate Prototype.pdb
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\resources.pri
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\AppxManifest.xml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Room Mate Prototype.build.appxrecipe
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\App.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\App.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\About_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\About_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Feed_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Feed_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Grocery_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Grocery_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Settings_Page.g.i.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Settings_Page.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\XamlTypeInfo.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\App.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\About_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Feed_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Grocery_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Settings_Page.xaml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\App.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\About_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Feed_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Grocery_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Settings_Page.xbf
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\XamlSaveStateFile.xml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Room Mate Prototype.exe
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Room Mate Prototype.pdb
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\priconfig.xml
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\priconfig.xml.intermediate
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\layout.resfiles
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\layout.resfiles.intermediate
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\resources.resfiles
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\resources.resfiles.intermediate
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\pri.resfiles
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\pri.resfiles.intermediate
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\qualifiers.txt
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\qualifiers.txt.intermediate
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\dan\documents\visual studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\ProjectArchitectures.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page_Mine.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page_Mine.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page_Mine.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Chores_Page_Mine.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Chores_Page_Mine.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page_Month.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page_Month.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page_Month.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\obj\Debug\Calendar_Page_Month.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate Prototype\Room Mate Prototype\bin\Debug\Calendar_Page_Month.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\App.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\App.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\About_Page.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\About_Page.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Feed_Page.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Feed_Page.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Grocery_Page.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Grocery_Page.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Settings_Page.g.i.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Settings_Page.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\App.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\About_Page.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Grocery_Page.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Settings_Page.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\App.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\About_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Grocery_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Settings_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Room Mate Prototype.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Room Mate Prototype.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Feed_Page.xaml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\Feed_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\App.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\About_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Feed_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Grocery_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Settings_Page.xbf
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Room Mate Prototype.xr.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Room Mate Prototype.exe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Room Mate Prototype.pdb
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\resources.pri
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\AppxManifest.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\bin\Debug\Room Mate Prototype.build.appxrecipe
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\priconfig.xml
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\priconfig.xml.intermediate
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\layout.resfiles
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\layout.resfiles.intermediate
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\resources.resfiles
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\resources.resfiles.intermediate
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\pri.resfiles
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\pri.resfiles.intermediate
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\qualifiers.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dan\Documents\Visual Studio 2013\Projects\Room Mate UI\Room Mate Prototype\obj\Debug\ProjectArchitectures.txt
